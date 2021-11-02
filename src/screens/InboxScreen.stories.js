@@ -5,7 +5,7 @@ import { PureInboxScreen } from './InboxScreen';
 
 import { action } from '@storybook/addon-actions';
 
-import * as TaskListStories from './TaskList.stories';
+import * as TaskListStories from '../components/TaskList.stories';
 
 // A super-simple mock of a redux store
 const store = {
